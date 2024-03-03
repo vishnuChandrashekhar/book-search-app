@@ -1,2 +1,2 @@
-# employee-forums-reactjs-internship-assignment
-Explore books effortlessly with my React.js project! Utilizing the Google Books API, this application allows seamless browsing and searching for your next favorite read. Dive into the world of literature with ease!
+Live page URL - https://soft-valkyrie-8b9d74.netlify.app/
+Initial loading might be slow, please wait for few seconds.
